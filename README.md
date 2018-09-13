@@ -1,0 +1,2 @@
+# RainboBright
+Kodi Addons
